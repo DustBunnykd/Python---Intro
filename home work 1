@@ -1,0 +1,4 @@
+a=3*21000
+b=2*41000
+c=a+b-35000
+print("Mr Kolade after losing 35000 in value is now worth",c)

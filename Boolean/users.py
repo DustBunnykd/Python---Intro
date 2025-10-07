@@ -1,0 +1,8 @@
+print("Enter Your Details")
+print("Enter Your Surname")
+surname= input()
+print("Enter Your Firstname")
+firstname=input()
+print("Enter Your Middlename")
+middlename=input()
+print("My Details are",firstname ,middlename ,surname)
